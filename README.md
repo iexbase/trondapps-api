@@ -4,6 +4,11 @@
 
 * pip install djangorestframework, markdown, django-filter, django-cors-headers, unidecode, djongo
 * configure file **/dapps/settings.py**
+* python manage.py collectstatic
+* python manage.py makemigrations
+* python manage.py migrate
+* python manage.py createsuperuser
+* python manage.py runserver 8000
 
 ```python
 # change params
