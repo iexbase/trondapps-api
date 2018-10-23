@@ -13,11 +13,7 @@ CORS_ORIGIN_REGEX_WHITELIST = ()
 ALLOWED_HOSTS = []
 
 # recommended not to change
-CORS_ALLOW_METHODS() 
-
-
-CORS_ORIGIN_REGEX_WHITELIST
-
+CORS_ALLOW_METHODS = () 
 
 ```python 
 # default database mongodb
