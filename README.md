@@ -4,6 +4,7 @@
 
 * pip install djangorestframework, markdown, django-filter, django-cors-headers, unidecode, djongo
 * configure file **/dapps/settings.py**
+------
 * python manage.py collectstatic
 * python manage.py makemigrations
 * python manage.py migrate
